@@ -34,3 +34,9 @@ https://github.com/wuyouzhuguli/SpringAll
 https://github.com/kdn251/interviews
 ```
 
+### solo
+
+```
+https://github.com/b3log/solo
+```
+
